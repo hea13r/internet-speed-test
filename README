@@ -1,0 +1,6 @@
+This program will test your download and upload speed using python's speedtest library (will need to be installed through pip)
+
+It also uses threading so while it is checking download speed it will also print a v every second and while testing upload it will print a ^ every second
+
+To run, just download, and run from command line using this syntax: python3 speed.py
+You will need to install speedtest-cli through pip in order to import speedtest
